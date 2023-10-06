@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/frosted
+frosted.so
+frosted.dylib
+frosted.dll
+frosted.a
+frosted.lib
+frosted-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
